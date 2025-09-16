@@ -20,6 +20,9 @@ public class ErrorValidationsTest extends BaseTest {
 		
 		System.out.println("GitDemoX");
 		System.out.println("GitDemoX2");
+		System.out.println("GitDemoX3");
+		System.out.println("GitDemoX4");
+		
 	}
 	
 	@Test
